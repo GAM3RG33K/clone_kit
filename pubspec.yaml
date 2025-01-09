@@ -1,5 +1,5 @@
 name: clone_kit
-description: A utility for Flutter developers to clone existing online hosted Flutter project files to their local environment.
+description: A utility for Flutter/Dart developers to clone existing online hosted project files to their local environment.
 version: 0.0.1
 publish_to: none
 
